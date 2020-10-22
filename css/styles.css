@@ -1,0 +1,57 @@
+body.body{
+    margin: 0 auto;
+    font-size: 100%;
+    background: url("../img/SkateBg.jpg");
+}
+body.body1{
+    margin: 0 auto;
+    font-size: 100%;
+    background: url("../img/SkateBg1.jpg");
+}
+body.body2{
+    margin: 0 auto;
+    font-size: 100%;
+    background: url("../img/SkateBg2.jpg");
+}
+header{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 100%;
+}
+
+div.Div1 {
+    background-color: thistle;
+    font-family: 'Staatliches', cursive;
+    font-size: 200%;
+}
+div.Out{
+    background-color: thistle;
+    font-family: 'Staatliches', cursive;
+    font-size: 300%;
+    text-align: center;
+}
+
+
+
+
+
+nav.Out ul li.btn{
+	list-style-type: none;
+    display: inline-block;
+    font-size: 200%;
+    background-color: thistle;
+	color: black;
+	text-decoration: none;
+	padding: 10px;
+    font-family: 'Staatliches', cursive;
+}
+nav.Out ul li.btn:hover{
+	color: thistle;
+	background-color: black;
+	transition: 0.3s all;
+    font-family: 'Staatliches', cursive;
+    font-size: 200%;
+}
+
