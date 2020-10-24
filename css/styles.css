@@ -52,4 +52,10 @@ nav.Out ul li.btn:hover{
     font-family: 'Staatliches', cursive;
     font-size: 200%;
 }
+/* Carte de spot */
+iframe.carte1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
 
+}
