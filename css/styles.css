@@ -21,11 +21,25 @@ header{
     align-items: center;
     font-size: 100%;
 }
-
+/* h1 title */
 div.Div1 {
     background-color: thistle;
     font-family: 'Staatliches', cursive;
     font-size: 200%;
+    text-align: center;
+    width: 500px;
+}
+div.Div2 {
+    background-color: thistle;
+    font-family: 'Staatliches', cursive;
+    font-size: 170%;
+    text-align: center;
+    width: 400px;
+}
+/* h2 title */
+h2.h2_1{
+    font-family: 'Staatliches', cursive;
+    background-color: thistle;
 }
 /* menu de nav */
 div.Out{
@@ -38,7 +52,7 @@ div.Out{
 nav.Out ul li.btn{
 	list-style-type: none;
     display: inline-block;
-    font-size: 200%;
+    font-size: 170%;
     background-color: thistle;
 	color: black;
 	text-decoration: none;
@@ -50,7 +64,7 @@ nav.Out ul li.btn:hover{
 	background-color: black;
 	transition: 0.3s all;
     font-family: 'Staatliches', cursive;
-    font-size: 200%;
+    font-size: 170%;
 }
 /* Carte de spot */
 iframe.carte1{
