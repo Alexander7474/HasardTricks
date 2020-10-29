@@ -1,7 +1,7 @@
 function FindNext () {
     var str = document.getElementById ("findField").value; // note : recupere la valeur de input en créant una var.
     if (str == "") {
-        alert ("Entrer du test pour chercher");
+        alert ("Entrer du text pour chercher");
         return;
     }
 
